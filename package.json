@@ -1,0 +1,33 @@
+{
+  "name": "building-detect",
+  "version": "1.0.0",
+  "description": "detect buildings from aerial photography",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/morganherlocker/building-detect.git"
+  },
+  "author": "morganherlocker",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/morganherlocker/building-detect/issues"
+  },
+  "homepage": "https://github.com/morganherlocker/building-detect",
+  "dependencies": {
+    "brain": "^0.7.0",
+    "clusterfck": "^0.6.0",
+    "fs": "0.0.2",
+    "get-pixels": "^3.2.2",
+    "ndarray": "^1.0.18",
+    "ndarray-unpack": "^1.0.0",
+    "queue-async": "^1.0.7",
+    "save-pixels": "^2.2.0",
+    "zeros": "^1.0.0"
+  }
+}
