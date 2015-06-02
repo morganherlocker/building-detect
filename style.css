@@ -1,0 +1,25 @@
+.swatch-container {
+  padding-top: 20px;
+  padding-left: 20px;
+  background-color: #fff;
+}
+.swatch {
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+}
+h1 {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+img {
+    border: solid;
+    border-width: 10px;
+    width: 512px;
+    height: 512px;
+}
+.yes {
+    border-color: blue;
+}
+.no {
+    border-color: red
+}
